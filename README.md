@@ -29,16 +29,27 @@ It allows users to manage wallets, place bets, cash out winnings, and see real-t
 ## 📂 Folder Structure
 
 Backend/
+
 ├── config/             # Database connection
+
 ├── controllers/        # API logic
+
 ├── models/             # Mongoose schemas
+
 ├── routes/             # API routes
+
 ├── scripts/            # Seed script
+
 ├── services/           # Crypto price + game logic
+
 ├── utils/              # Helper functions
+
 ├── websocket/          # Real-time crash game socket
+
 ├── test/               # Postman collection
+
 ├── server.js           # Main server file
+
 └── .env                # Environment variables
 
 ## CMD commands
